@@ -1,0 +1,14 @@
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Masaüstü\challenge\DevBaseAPI\DevBaseAPI\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
